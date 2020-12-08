@@ -1,0 +1,3 @@
+include ':FeedbackSDK'
+include ':app'
+rootProject.name = "mySDK"

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AIimage">
+        <attr name="Text" format="string" />
+        <attr name="ImageIndex" format="string"  />
+        <attr name="DefaultImage" format="string"  />
+    </declare-styleable>
+
+    <declare-styleable name="VoiceToTextButton">
+        <attr name="Language" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="FeedbackView">
+        <attr name="ColorStart" format="string" />
+        <attr name="ColorEnd" format="string" />
+        <attr name="DefaultColor" format="string" />
+    </declare-styleable>
+</resources>
